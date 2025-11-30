@@ -33,6 +33,15 @@ curl -sSL https://raw.githubusercontent.com/vevc/one-node/refs/heads/main/google
 
 app.js 第 4-11 行
 
+// ============================================================
+// Remote
+const targetUrl = 'https://8080-firebase-us-1747877258236.cluster-2xfkbshw5rfguuk5qupw267afs.cloudworkstations.dev'  
+const ffOpenUrl = 'https://idx.google.com/us-51072006'
+// Local
+const projectDir = '/home/user/tw'   项目名称
+const vncPassword = 'vevc.firefox.VNC.pwd'  密码
+// ============================================================
+
 输入：pwd 查看路径
 
 4. 设置开机自启
