@@ -57,6 +57,7 @@ dev.nix onStart 方法
 第49行
 
 xray = "/home/user/项目名称/app/xray/startup.sh";
+
 idx = "/home/user/项目名称/app/idx-keepalive/startup.sh";
 
 （输入：docker ps 检测是否正常运行）
