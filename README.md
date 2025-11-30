@@ -3,7 +3,6 @@
 export PORT=8080 UUID=自定义
 curl -sSL https://raw.githubusercontent.com/vevc/one-node/refs/heads/main/google-idx/install.sh | sh
 
-uuid生成器【点击获取】
 
 重启命令：
 
